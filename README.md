@@ -7,7 +7,7 @@ Here you will find my projects, ideas, and work related to [specific topic or in
 This repository contains various projects that showcase my skills and experiments in **AI Engineering**.
 
 ### 🚀 What's Inside:
-- **Project 1:** Woo람차게 : 금융이력부족자(ThinFiler)를 위한 대안신용평가서비스
+- **Project 1:** Woo람차게 : 금융이력부족자(ThinFiler)를 위한 대안신용평가서비스 📌[Organizations](https://github.com/Fisa5th-AI-Final-Wooram) 
 - **Project 2:** 신용 리스크 예측 모델의 실험 관리와 운영 자동화 – MLflow 기반 MLOps 접근
 - **Project 3:** AI조기경보시스템
 
