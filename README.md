@@ -11,7 +11,7 @@ This repository contains various projects that showcase my skills and experiment
 - **Project 2:** VocieGuardian: 보이스피싱 예방 롤플레잉 대화를 통해 실시간 피드백을 제공하는 능동형
 범죄 예방 서비스 📌[repo](https://github.com/Choa0Kim/VoiceGuardian_mean-win)
 - **Project 3:** AI조기경보시스템 📌[repo](https://github.com/yura103/bigcontest-2025/tree/main)
-- **Project 4:** 신용 리스크 예측 모델의 실험 관리와 운영 자동화 – MLflow 기반 MLOps 접근
+- **Project 4:** 신용 리스크 예측 모델 – 위치 기반 예측 모델과 MLflow 기반 MLOps 접근
 
 ## 🛠️ Tools & Technologies
 - **Programming Languages:** Python, SQL
